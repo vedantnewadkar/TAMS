@@ -1,0 +1,51 @@
+name,email,role,roll_number,branch,year,division,phone,address,dob,enrollment_date
+Arjun Patel,arjun.patel@student.rait.edu,student,CE22A001,Computer Engineering,2,A,9876543201,"12 Shantinagar Pune 411005",2004-03-15,2022-08-01
+Ananya Iyer,ananya.iyer@student.rait.edu,student,CE22A002,Computer Engineering,2,A,9876543202,"45 Koregaon Park Pune 411001",2004-07-22,2022-08-01
+Ishaan Gupta,ishaan.gupta@student.rait.edu,student,CE22A003,Computer Engineering,2,A,9876543203,"67 Model Colony Pune 411016",2004-11-08,2022-08-01
+Priya Verma,priya.verma@student.rait.edu,student,CE22A004,Computer Engineering,2,A,9876543204,"23 Baner Road Pune 411045",2004-05-19,2022-08-01
+Rohan Kulkarni,rohan.kulkarni@student.rait.edu,student,CE22A005,Computer Engineering,2,A,9876543205,"89 Karve Road Pune 411004",2004-01-30,2022-08-01
+Sneha Deshmukh,sneha.deshmukh@student.rait.edu,student,CE22A006,Computer Engineering,2,A,9876543206,"34 Tilak Road Pune 411030",2004-09-14,2022-08-01
+Karan Mehta,karan.mehta@student.rait.edu,student,CE22A007,Computer Engineering,2,A,9876543207,"56 Deccan Gymkhana Pune 411004",2004-06-27,2022-08-01
+Divya Nair,divya.nair@student.rait.edu,student,CE22A008,Computer Engineering,2,A,9876543208,"78 Kothrud Pune 411038",2004-12-03,2022-08-01
+Vivek Joshi,vivek.joshi@student.rait.edu,student,CE22A009,Computer Engineering,2,A,9876543209,"90 Hadapsar Pune 411028",2004-04-11,2022-08-01
+Meera Chatterjee,meera.chatterjee@student.rait.edu,student,CE22A010,Computer Engineering,2,A,9876543210,"11 Viman Nagar Pune 411014",2004-08-25,2022-08-01
+Aditya Sharma,aditya.sharma@student.rait.edu,student,CE22B001,Computer Engineering,2,B,9876543211,"22 Shivajinagar Pune 411005",2004-02-18,2022-08-01
+Ritu Singh,ritu.singh@student.rait.edu,student,CE22B002,Computer Engineering,2,B,9876543212,"33 Camp Pune 411001",2004-10-05,2022-08-01
+Siddharth Reddy,siddharth.reddy@student.rait.edu,student,CE22B003,Computer Engineering,2,B,9876543213,"44 Aundh Pune 411007",2004-07-12,2022-08-01
+Kavya Pillai,kavya.pillai@student.rait.edu,student,CE22B004,Computer Engineering,2,B,9876543214,"55 Magarpatta Pune 411013",2004-03-28,2022-08-01
+Rahul Bhosale,rahul.bhosale@student.rait.edu,student,CE22B005,Computer Engineering,2,B,9876543215,"66 Wakad Pune 411057",2004-11-20,2022-08-01
+Pooja Malhotra,pooja.malhotra@student.rait.edu,student,CE21A001,Computer Engineering,3,A,9876543216,"77 Bavdhan Pune 411021",2003-05-15,2021-08-01
+Nikhil Patil,nikhil.patil@student.rait.edu,student,CE21A002,Computer Engineering,3,A,9876543217,"88 Pimple Saudagar Pune 411027",2003-09-22,2021-08-01
+Sakshi Tiwari,sakshi.tiwari@student.rait.edu,student,CE21A003,Computer Engineering,3,A,9876543218,"99 Hinjewadi Pune 411057",2003-01-08,2021-08-01
+Aarav Thakur,aarav.thakur@student.rait.edu,student,CE21A004,Computer Engineering,3,A,9876543219,"100 Pimpri Pune 411018",2003-06-30,2021-08-01
+Disha Kapoor,disha.kapoor@student.rait.edu,student,CE21A005,Computer Engineering,3,A,9876543220,"101 Chinchwad Pune 411019",2003-12-17,2021-08-01
+Vihaan Reddy,vihaan.reddy@student.rait.edu,student,ME22A001,Mechanical Engineering,2,A,9876543221,"12 Sadashiv Peth Pune 411030",2004-04-20,2022-08-01
+Sanjay Mishra,sanjay.mishra@student.rait.edu,student,ME22A002,Mechanical Engineering,2,A,9876543222,"23 Parvati Pune 411009",2004-08-14,2022-08-01
+Tanvi Rao,tanvi.rao@student.rait.edu,student,ME22A003,Mechanical Engineering,2,A,9876543223,"34 Sinhagad Road Pune 411041",2004-02-07,2022-08-01
+Aryan Goswami,aryan.goswami@student.rait.edu,student,ME22A004,Mechanical Engineering,2,A,9876543224,"45 Warje Pune 411058",2004-10-31,2022-08-01
+Nidhi Shukla,nidhi.shukla@student.rait.edu,student,ME22A005,Mechanical Engineering,2,A,9876543225,"56 Bibwewadi Pune 411037",2004-06-12,2022-08-01
+Abhishek Kumar,abhishek.kumar@student.rait.edu,student,ME21A001,Mechanical Engineering,3,A,9876543226,"67 Katraj Pune 411046",2003-03-25,2021-08-01
+Shruti Pandey,shruti.pandey@student.rait.edu,student,ME21A002,Mechanical Engineering,3,A,9876543227,"78 Dhayari Pune 411041",2003-07-18,2021-08-01
+Gaurav Tiwari,gaurav.tiwari@student.rait.edu,student,ME21A003,Mechanical Engineering,3,A,9876543228,"89 Kondwa Pune 411048",2003-11-09,2021-08-01
+Saanvi Mehta,saanvi.mehta@student.rait.edu,student,IT22A001,Information Technology,1,A,9876543229,"90 Dhankawadi Pune 411043",2005-01-14,2023-08-01
+Harsh Pandey,harsh.pandey@student.rait.edu,student,IT22A002,Information Technology,1,A,9876543230,"11 Fursungi Pune 412308",2005-05-22,2023-08-01
+Prajakta Gaikwad,prajakta.gaikwad@student.rait.edu,student,IT22A003,Information Technology,1,A,9876543231,"22 Undri Pune 411060",2005-08-07,2023-08-01
+Aakash Sharma,aakash.sharma@student.rait.edu,student,IT22A004,Information Technology,1,A,9876543232,"33 Ambegaon Pune 411046",2005-03-29,2023-08-01
+Rutuja Jadhav,rutuja.jadhav@student.rait.edu,student,IT22A005,Information Technology,1,A,9876543233,"44 Nanded City Pune 411041",2005-11-16,2023-08-01
+Kabir Singh,kabir.singh@student.rait.edu,student,IT21A001,Information Technology,2,A,9876543234,"55 Sus Road Pune 411021",2004-07-04,2022-08-01
+Swati Bhandari,swati.bhandari@student.rait.edu,student,IT21A002,Information Technology,2,A,9876543235,"66 Mahalunge Pune 411045",2004-09-21,2022-08-01
+Yash Parekh,yash.parekh@student.rait.edu,student,AI22A001,Artificial Intelligence,2,A,9876543236,"77 Moshi Pune 412105",2004-04-16,2022-08-01
+Kriti Bansal,kriti.bansal@student.rait.edu,student,AI22A002,Artificial Intelligence,2,A,9876543237,"88 Bhosari Pune 411026",2004-12-28,2022-08-01
+Darshan Naik,darshan.naik@student.rait.edu,student,AI22A003,Artificial Intelligence,2,A,9876543238,"99 Dighi Pune 411015",2004-06-09,2022-08-01
+Nikita Kulkarni,nikita.kulkarni@student.rait.edu,student,AI22A004,Artificial Intelligence,2,A,9876543239,"100 Alandi Pune 412105",2004-02-23,2022-08-01
+Sumit Yadav,sumit.yadav@student.rait.edu,student,AI22A005,Artificial Intelligence,2,A,9876543240,"111 Chakan Pune 410501",2004-10-05,2022-08-01
+Aditi Bhatt,aditi.bhatt@student.rait.edu,student,CE23A001,Computer Engineering,1,A,9876543241,"12 Ravet Pune 412101",2005-07-12,2023-08-01
+Mihir Jain,mihir.jain@student.rait.edu,student,CE23A002,Computer Engineering,1,A,9876543242,"23 Talegaon Pune 410507",2005-03-04,2023-08-01
+Pallavi Deshmukh,pallavi.deshmukh@student.rait.edu,student,CE23A003,Computer Engineering,1,A,9876543243,"34 Dehu Road Pune 412101",2005-09-18,2023-08-01
+Raj Patel,raj.patel@student.rait.edu,student,CE23A004,Computer Engineering,1,A,9876543244,"45 Khed Shivapur Pune 412205",2005-01-27,2023-08-01
+Shreya Iyer,shreya.iyer@student.rait.edu,student,CE23A005,Computer Engineering,1,A,9876543245,"56 Uruli Kanchan Pune 412202",2005-11-10,2023-08-01
+Omkar More,omkar.more@student.rait.edu,student,CE23B001,Computer Engineering,1,B,9876543246,"67 Jejuri Pune 412303",2005-05-24,2023-08-01
+Trupti Wagh,trupti.wagh@student.rait.edu,student,CE23B002,Computer Engineering,1,B,9876543247,"78 Saswad Pune 412301",2005-08-13,2023-08-01
+Kunal Naik,kunal.naik@student.rait.edu,student,CE23B003,Computer Engineering,1,B,9876543248,"89 Wai Satara 412803",2005-02-06,2023-08-01
+Ankita Sawant,ankita.sawant@student.rait.edu,student,CE23B004,Computer Engineering,1,B,9876543249,"90 Lonand Satara 415521",2005-06-20,2023-08-01
+Varun Kulkarni,varun.kulkarni@student.rait.edu,student,CE23B005,Computer Engineering,1,B,9876543250,"101 Phaltan Satara 415523",2005-12-30,2023-08-01

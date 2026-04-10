@@ -1,0 +1,24 @@
+name,email,role,department,employee_id,phone,designation,joining_date
+Prof. Rajesh Kumar,rajesh.kumar@rait.edu,teacher,Computer Engineering,EMP-2021-001,9988776601,Associate Professor,2021-07-01
+Dr. Priya Sharma,priya.sharma@rait.edu,mentor,Computer Engineering,MNT-001,9988776602,Mentor (Computer Engineering),2021-07-01
+Prof. Amit Shah,amit.shah@rait.edu,teacher,Mechanical Engineering,EMP-2020-003,9988776603,Professor,2020-07-01
+Dr. Sneha Desai,sneha.desai@rait.edu,mentor,Information Technology,MNT-004,9988776604,Mentor (Information Technology),2022-07-01
+Prof. Vikram Singh,vikram.singh@rait.edu,mentor,Artificial Intelligence,MNT-005,9988776605,Mentor (Artificial Intelligence),2021-07-01
+Dr. Suresh Iyer,suresh.iyer@rait.edu,mentor,Computer Engineering,MNT-006,9988776606,Mentor (Computer Engineering),2019-07-01
+Prof. Meera Kulkarni,meera.kulkarni@rait.edu,teacher,Computer Engineering,EMP-2023-007,9988776607,Assistant Professor,2023-07-01
+Dr. Nilesh Patil,nilesh.patil@rait.edu,teacher,Mechanical Engineering,EMP-2022-008,9988776608,Associate Professor,2022-07-01
+Prof. Kavita Nair,kavita.nair@rait.edu,mentor,Computer Engineering,MNT-007,9988776609,Mentor (Computer Engineering),2021-07-01
+Dr. Anita Rao,anita.rao@rait.edu,mentor,Artificial Intelligence,MNT-008,9988776610,Mentor (Artificial Intelligence),2020-07-01
+Prof. Ramesh Joshi,ramesh.joshi@rait.edu,teacher,Computer Engineering,EMP-2021-011,9988776611,Professor,2021-07-01
+Dr. Pooja Verma,pooja.verma@rait.edu,teacher,Information Technology,EMP-2023-012,9988776612,Assistant Professor,2023-07-01
+Prof. Ganesh Bhosale,ganesh.bhosale@rait.edu,teacher,Civil Engineering,EMP-2019-013,9988776613,Professor,2019-07-01
+Dr. Sunita Reddy,sunita.reddy@rait.edu,teacher,Electrical Engineering,EMP-2020-014,9988776614,Associate Professor,2020-07-01
+Prof. Ashok Choudhary,ashok.choudhary@rait.edu,teacher,Electronics & Telecomm,EMP-2021-015,9988776615,Assistant Professor,2021-07-01
+Prof. Manjunath Hegde,manjunath.hegde@rait.edu,teacher,Mechanical Engineering,EMP-2022-016,9988776616,Professor,2022-07-01
+Dr. Rekha Jaiswal,rekha.jaiswal@rait.edu,mentor,Mechanical Engineering,MNT-003,9988776617,Mentor (Mechanical Engineering),2020-07-01
+Prof. Deepak Waghmare,deepak.waghmare@rait.edu,teacher,Information Technology,EMP-2021-018,9988776618,Associate Professor,2021-07-01
+Dr. Nalini Menon,nalini.menon@rait.edu,teacher,Computer Engineering,EMP-2022-019,9988776619,Assistant Professor,2022-07-01
+Prof. Santosh More,santosh.more@rait.edu,teacher,Electrical Engineering,EMP-2023-020,9988776620,Assistant Professor,2023-07-01
+Dr. Vandana Bhauskar,vandana.bhauskar@rait.edu,teacher,Electronics & Telecomm,EMP-2020-021,9988776621,Associate Professor,2020-07-01
+Prof. Anil Kadam,anil.kadam@rait.edu,teacher,Civil Engineering,EMP-2019-022,9988776622,Professor,2019-07-01
+Dr. Smita Jadhav,smita.jadhav@rait.edu,teacher,Information Technology,EMP-2022-023,9988776623,Associate Professor,2022-07-01
